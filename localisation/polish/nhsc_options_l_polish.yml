@@ -6,7 +6,7 @@
 ###           Options Menu           ###
 ########################################
 
-esc_options_title: "Extra Ship Components 3.0 Customization Menu"
+esc_options_title: "Extra Ship Components 3.0 Menu Opcji"
 esc_options_title_desc: "This menu allows toggling subsets of content offered by the \"§YExtra Ship Components 3.0§!\" mod on and off."
 
 esc_option.1.a: "Weapon components are §Genabled§!. §RDisable§!?"
